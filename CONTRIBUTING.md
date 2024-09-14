@@ -24,7 +24,7 @@ The first step is to make the project clone by GitHub _(make sure you have git i
 
 Open the terminal or git bash in the directory where you want to download the project. Use the ``git clone`` command or simple copy and paste the below command in terminal.
 
-``git clone https://github.com/JAIJANYANI/Automated-Resume-Screening-System.git``
+
 
 
 ## License
@@ -62,13 +62,6 @@ Changes must be submitted through Pull Requests. You can find more about this in
    do not have permission to do that, you may request the second reviewer to merge it for you.
 
 
-## Maintainers
-
-* [Jai Janyani](https://github.com/JAIJANYANI)
-* [Abhishek Sharma](https://github.com/cryptoabhi)
-* [Kartik Agarwal](https://github.com/kartik31)
-
-
 ## Hacktoberfest 2019!
 
 * Steps to Create your first PR and get Official Hacktoberfest merchandise for free.
@@ -77,23 +70,6 @@ Changes must be submitted through Pull Requests. You can find more about this in
 * Step 2: Star this repo and share it with your friends.
 * Step 3: Just open "CONTRIBUTING.md" and include your name and the link to your github profile in the "Collaborators" section to make a * connection with all other open enthusiasts like us.
 
-* OR You can add references to some cool open source projects below:
 
-## Collaborator (Hacktoberfest 2019)
-* [ModuleLoop] (https://github.com/moduleloop) 
-* [Nitish Sharma](https://github.com/nitish81299)
-* [NavodaKaluarachchi] (https://github.com/NavodaKaluarachchi)
-* [Spencer Robinson](https://github.com/spenmaster)
-* [Paulo Filho] (https://github.com/paulo-filho-dev)
-* [Eduardo Santos](https://github.com/eduardosgs)
-
-
-
-
-## Cool Open source Projects (Hacktoberfest 2019)
-* freeCodeCamp
-* [Tensorflow](https://github.com/tensorflow/tensorflow)
-*
-*
 
 
