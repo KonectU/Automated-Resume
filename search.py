@@ -4,7 +4,7 @@ import os
 import warnings
 import textract
 import requests
-from flask import (Flask, json, Blueprint, jsonify, redirect, render_template, request,
+from flask import (Flask, json, Blueprint, jsonify, redirect, render_template, request, 
                    url_for)
 from gensim.summarization import summarize
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
