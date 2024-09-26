@@ -22,7 +22,7 @@ warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 class ResultElement:
     def __init__(self, rank, filename):
         self.rank = rank
-        self.filename = filename
+        self.filename = filename 
 
 
 def getfilepath(loc):
