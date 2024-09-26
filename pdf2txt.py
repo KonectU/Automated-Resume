@@ -3,7 +3,7 @@ import logging
 import six
 import pdfminer.settings
 pdfminer.settings.STRICT = False
-import pdfminer.high_level
+import pdfminer.high_level 
 import pdfminer.layout
 from pdfminer.image import ImageWriter
 
