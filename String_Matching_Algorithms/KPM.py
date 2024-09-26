@@ -1,5 +1,5 @@
 
-# Python program for KMP Algorithm 
+# Python program for KMP Algorithm  
 def KMPSearch(pat, txt): 
     M = len(pat) 
     N = len(txt) 
